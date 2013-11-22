@@ -4,9 +4,12 @@ class Tree:
     def __init__(self):
         pass
 
-    def delete_node(self, value):
-        """ deletes entire sub-tree """
+    def delete_nodes(self, value):
+        """ Traverses the tree and deletes entire sub-tree of all matching nodes """
         pass
+
+    # Alias
+    delete_node = delete_nodes
 
     def add_node(self, value, parent_node_ID):
         pass
