@@ -1,0 +1,55 @@
+{
+    val: "1",
+    subtree : {
+        val: "2",
+        subtree: {
+            val: "7",
+            subtree: {
+                val: "14"
+            }
+        }
+    }
+    subtree : {
+        val: "3",
+        subtree : {
+            val: "8"
+        },
+        subtree : {
+            val: "9"
+        }
+    }
+    subtree : {
+        val: "4",
+        subtree : {
+            val: "10"
+        },
+        subtree : {
+            val: "11",
+            subtree : {
+                val: "15"
+            }
+        }   
+    },
+    subtree : {
+        val: "5"
+    },
+    subtree : {
+        val: "6",
+        subtree : {
+            val: "12"
+        },
+        subtree : {
+            val: "13",
+            subtree : {
+                val: 16
+            },
+            subtree : {
+                val: 17
+            },
+            subtree : {
+                val: 18
+            }
+        }
+    }
+}
+
