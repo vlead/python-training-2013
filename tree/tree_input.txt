@@ -8,7 +8,7 @@
                 val: "14"
             }
         }
-    }
+    },
     subtree : {
         val: "3",
         subtree : {
@@ -17,7 +17,7 @@
         subtree : {
             val: "9"
         }
-    }
+    },
     subtree : {
         val: "4",
         subtree : {
