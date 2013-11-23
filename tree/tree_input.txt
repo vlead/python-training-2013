@@ -1,6 +1,6 @@
 {
     val: "1",
-    subtree : {
+    subtree: {
         val: "2",
         subtree: {
             val: "7",
@@ -8,45 +8,45 @@
                 val: "14"
             }
         }
-    }
-    subtree : {
+    },
+    subtree: {
         val: "3",
-        subtree : {
+        subtree: {
             val: "8"
         },
-        subtree : {
+        subtree: {
             val: "9"
         }
-    }
-    subtree : {
+    },
+    subtree: {
         val: "4",
-        subtree : {
+        subtree: {
             val: "10"
         },
-        subtree : {
+        subtree: {
             val: "11",
-            subtree : {
+            subtree: {
                 val: "15"
             }
         }   
     },
-    subtree : {
+    subtree: {
         val: "5"
     },
-    subtree : {
+    subtree: {
         val: "6",
-        subtree : {
+        subtree: {
             val: "12"
         },
-        subtree : {
+        subtree: {
             val: "13",
-            subtree : {
+            subtree: {
                 val: 16
             },
-            subtree : {
+            subtree: {
                 val: 17
             },
-            subtree : {
+            subtree: {
                 val: 18
             }
         }
